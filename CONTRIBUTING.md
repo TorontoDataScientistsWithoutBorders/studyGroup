@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Contributing to UofT Coders
+title: Contributing to Society of Public Data
 ---
-Welcome to the Contributing guideline for UofT Coders. Thanks for taking the time to contribute! 
+Welcome to the Contributing guideline for **Society of Public Data**. Thanks for taking the time to contribute! 
 
-The following is a set of guidelines for contributing to the UofT Coders community, whether it be by teaching a lesson, fixing the website, helping to plan and organize our various events, or taking on a leadership role.
+The following is a set of guidelines for contributing to the Society of Public Data community, whether it be by teaching a lesson, fixing the website, helping to plan and organize our various events, or taking on a leadership role.
 
 ### Table of Contents
 
-1. [About UofT Coders](#about-uoft-coders)
+1. [About Society of Public Data](#about-uoft-coders)
     - [Code of Conduct](#code-of-conduct)
 
 2. [How You Can Contribute](#how-you-can-contribute)
@@ -19,21 +19,20 @@ The following is a set of guidelines for contributing to the UofT Coders communi
     - [Other Ways to Get Involved](#other-ways-to-get-involved)
 
 -----
-# About UofT Coders
+# About Society of Public Data
 
-UofT Coders was formed to share and learn about coding techniques and
-best practices for computing and analysis in research. We hold weekly sessions
+UofT Coders was formed to share and learn about data intelligence techniques and
+best practices for computing and analysis in public data applications. We hold weekly sessions
 in the format of code-alongs, coworking sessions or journal clubs/discussions.
-To see our previous and upcoming events, you can visit our [Events repo](https://github.com/UofTCoders/Events/issues) or [website](https://uoftcoders.github.io/studyGroup/#events).
+To see our previous and upcoming events, you can visit our [Events repo](https://github.com/UofTCoders/Events/issues) or [website](https://TorontoDataScientistsWithoutBorders.github.io/studyGroup/#events).
 To learn more about our group, you can read our [constitution](https://github.com/UofTCoders/council/blob/master/Constitution.md).
 
 ## Code of Conduct
 
-We adhere to a [Code of Conduct](https://github.com/UofTCoders/studyGroup/blob/gh-pages/codeOfConduct.md)
+We adhere to a [Code of Conduct](https://github.com/TorontoDataScientistsWithoutBorders/studyGroup/blob/gh-pages/codeOfConduct.md)
 and by participating, you agree to also uphold this code. Please report any 
 unacceptable behaviour to uoftcoders@gmail.com. If you feel that a member of 
-the executive team has been violating the Code of Conduct, please email 
-groups.officer@utoronto.ca to report.
+the executive team has been violating the Code of Conduct, please email to report.
 
 -----
 # How You Can Contribute
@@ -108,7 +107,7 @@ and/or verbally ask how everyone is doing and leave time for questions.
 
 There are two ways of fixing or adding to the website, either by:
 
-- Creating an [Issue](https://github.com/UofTCoders/studyGroup/issues/new)
+- Creating an [Issue](https://github.com/TorontoDataScientistsWithoutBorders/studyGroup/issues/new)
 describing the problem or enhancement. This is technically not doing anything
 yourself, just recommending something to be done.
 - Submitting a Pull Request from a clone of this repo. This way takes a bit more work and requires knowledge of Git and likely HTML. But we
@@ -135,4 +134,4 @@ We hold various sessions that incorporate code-alongs, and having the help of mo
 
 ### Taking On A Leadership Role
 
-The planning and organization of our the group and our various events are done by our executive council. We hold elections every April to elect the executive council members, however, we are always open to suggestions on new roles and positions for interested members of the UofT Coders community who wish to take on more a leadership role. To read more about these positions, please see our [Council Roles](https://github.com/UofTCoders/council/blob/master/Council_Roles.md) document.
+The planning and organization of our the group and our various events are done by our executive council. We hold elections every April to elect the executive council members, however, we are always open to suggestions on new roles and positions for interested members of the UofT Coders community who wish to take on more a leadership role. To read more about these positions, please see our [Council Roles](https://github.com/TorontoDataScientistsWithoutBorders/council/blob/master/Council_Roles.md) document.
